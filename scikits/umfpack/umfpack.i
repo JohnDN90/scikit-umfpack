@@ -12,6 +12,7 @@
 %{
 #include <umfpack.h>
 #include "numpy/arrayobject.h"
+#include "numpy/old_defines.h"
 %}
 
 
